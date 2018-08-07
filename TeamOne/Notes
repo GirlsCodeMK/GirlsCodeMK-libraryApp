@@ -1,0 +1,21 @@
+## Team One Notes
+
+Users will arrive at the landing page and have the option to login or register. 
+If the user has not registered they will be taken to a new page to complete their personal details. 
+If the user has registered once they login successfully they will be presented with their Profile Page.
+
+## The Profile Page
+
+The Profie Page will contain the users personal details and a list of the items they have on loan, a history and a waiting list.
+
+## Onloan
+
+List of all the library books on loan
+
+## History
+
+List of all books borrowed.
+
+## Waiting list
+
+List of the books they have requested once back in stock.
