@@ -16,3 +16,6 @@ Anything from sketches, photos to masterful code. More details to come as the pr
 
 GirlsCode MK is a nonprofit based in Milton Keynes. We teach girls and women how to code. For free. [Join us!](http://girlscodemk.co.uk/)
 
+### Waffles!
+
+I really like waffles!
